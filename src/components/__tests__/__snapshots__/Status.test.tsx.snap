@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Status renders correctly 1`] = `
+<div
+  className="makeStyles-status-1"
+>
+  <p
+    className="makeStyles-status__text-2"
+  >
+    To get the full app experience, you’ll need to
+     
+    <a
+      href="/app/login"
+    >
+      log in
+    </a>
+    .
+  </p>
+</div>
+`;

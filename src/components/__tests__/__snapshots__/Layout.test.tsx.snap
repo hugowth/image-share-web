@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout renders correctly 1`] = `
+<div>
+  <header
+    className="makeStyles-header-2"
+  >
+    <div
+      className="makeStyles-header__wrap-3"
+    >
+      <h1
+        className="makeStyles-header__heading-4"
+      >
+        <a
+          className="makeStyles-header__link-7 makeStyles-header__linkHome-6"
+          href="/"
+        >
+          Demo Website
+        </a>
+      </h1>
+      <nav
+        className="makeStyles-header__nav-5"
+        role="main"
+      >
+        <a
+          className="makeStyles-header__link-7"
+          href="/"
+        >
+          Home
+        </a>
+        <a
+          className="makeStyles-header__link-7"
+          href="/app/gallery"
+        >
+          List View
+        </a>
+      </nav>
+    </div>
+  </header>
+  <div
+    className="makeStyles-status-8"
+  >
+    <p
+      className="makeStyles-status__text-9"
+    >
+      To get the full app experience, you’ll need to
+       
+      <a
+        href="/app/login"
+      >
+        log in
+      </a>
+      .
+    </p>
+  </div>
+  <main
+    className="makeStyles-main-1"
+  />
+</div>
+`;

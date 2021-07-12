@@ -1,21 +1,25 @@
-![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
+# Demo Website
 
-# Gatsby Example
 
-This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+## Development
 
-## Deploy Your Own
-
-Deploy your own Gatsby project, along with Serverless Functions, with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/main/examples/gatsby)
-
-_Live Example: https://gatsby.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Gatsby on Vercel, you can use the [Gatsby CLI](https://www.gatsbyjs.org/docs/gatsby-cli/) to initialize the project:
-
-```shell
-$ gatsby new gatsby-site
+### Install node modules:
+```bash
+yarn
 ```
+
+### Run development server
+Set up  `.env.development`
+you can see the `.env.sample` 
+
+```bash
+yarn start
+```
+It will start a local server at `localhost:8000`
+
+### Testing
+
+```bash
+yarn test
+```
+it will run tests with jest

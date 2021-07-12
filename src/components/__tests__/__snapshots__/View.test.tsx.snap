@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View renders correctly 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <h1>
+    title
+  </h1>
+</div>
+`;
