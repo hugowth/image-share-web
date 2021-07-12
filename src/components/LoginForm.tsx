@@ -51,6 +51,7 @@ const LoginForm = ({ onSubmit }: Props) => {
                     autoFocus
                     name="password"
                     label="Password"
+                    type="password"
                     error={touched.password && Boolean(errors.password)}
                     helperText={errors.password}
                     disabled={disabledField}
