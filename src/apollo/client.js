@@ -30,9 +30,9 @@ const restLink = createRestLink();
 
 const authLink = setContext((_, { headers }) => {
   // get the authentication token from local storage if it exists
-  const user = localStorage.getItem("gatsbyUser");
+  const userToken = localStorage.getItem("gatsbyUser");
 
-  const token = JSON.parse(user);
+  const token = userToken ? JSON.parse(userToken) : {};
 
   // return the headers to the context so httpLink can read them
   return {
