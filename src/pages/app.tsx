@@ -5,8 +5,6 @@ import Gallery from "./gallery";
 import Login from "./login";
 import PrivateRoute from "../components/PrivateRoute";
 
-import "../styles/index.css";
-
 const App = () => (
   <Layout>
     <Router>
