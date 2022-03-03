@@ -28,7 +28,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
-    "@types/jest": "^27.4.0",
+    "@types/jest": "^27.4.1",
     "babel-jest": "^27.5.1",
     "babel-preset-gatsby": "^2.7.0",
     "identity-obj-proxy": "^3.0.0",
