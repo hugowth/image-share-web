@@ -3141,10 +3141,10 @@ anymatch@^3.0.3, anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-apollo-link-rest@^0.9.0-rc.1:
-  version "0.9.0-rc.1"
-  resolved "https://registry.yarnpkg.com/apollo-link-rest/-/apollo-link-rest-0.9.0-rc.1.tgz#bc462ecf20c5e6fa041a3a6fd818fbb9aae4016c"
-  integrity sha512-v4iztbE1uDAbs5jXCCIZzOs+muLfRHpzj1Ej5Ajo+LnKD+n4Yfh0W1X41NyPSvmHeVkBjcFza+ma9JRrU7nVCg==
+apollo-link-rest@^0.9.0-rc.2:
+  version "0.9.0-rc.2"
+  resolved "https://registry.yarnpkg.com/apollo-link-rest/-/apollo-link-rest-0.9.0-rc.2.tgz#8a55d51c94dfd653d9c7e57b8fa28400a3f6326d"
+  integrity sha512-OeNlmZJebEHBHjQgfQsKFANH/Wzdu2Xq19q+qxT+/dwkxHVxpn3V0Cha7AeAqinu3KSxtt4HHha0JhuVrLyz9A==
 
 apollo-utilities@^1.3.4:
   version "1.3.4"
